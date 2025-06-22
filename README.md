@@ -62,7 +62,3 @@ This project examines a dataset of 100,000 credit card transactions to understan
 ## Results
 
 The analysis successfully identifies patterns in fraudulent transactions and builds machine learning models capable of detecting fraud with reasonable accuracy while maintaining low false alarm rates.
-
-## License
-
-This is an academic project for educational purposes.
